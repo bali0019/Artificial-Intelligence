@@ -1,6 +1,6 @@
 # Artificial Intelligence Agent - Diagonal Sudoku Solver
 
-#Description: 
+```Description```
 Applies constraint propagation, elimination, only choice, naked twins strategies to prune search area and then applies depth-wise search to find a possible solution for a diagonal sudoku.
 
 Constraint
