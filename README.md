@@ -4,7 +4,7 @@
 ```Description```<br>
 Applies constraint propagation, elimination, only choice, naked twins strategies to prune search area and then applies depth-wise search to find a possible solution for a diagonal sudoku.
 
-Constraint
+
 
 # Naked Twins
 Uses constraint propagation as a "mapreduce" for this soduku puzzle to repeatedly apply elimination
